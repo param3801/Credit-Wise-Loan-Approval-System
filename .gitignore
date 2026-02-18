@@ -3,3 +3,6 @@
 
 #ignore .pkl file
 *.pkl
+
+# ignore temporary file created by jupyter notebook
+*.ipynb_checkpoints
