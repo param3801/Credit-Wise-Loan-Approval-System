@@ -1,0 +1,5 @@
+#ignore .csv file
+*.csv
+
+#ignore .pkl file
+*.pkl
